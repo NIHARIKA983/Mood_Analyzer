@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.MoodAnalyserTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-07-30T06:51:54" hostname="NIHARIKA" time="0.034">
+  <properties/>
+  <testcase name="testMoodAnalysis" classname="com.bridgelabz.MoodAnalyserTest" time="0.027"/>
+  <testcase name="TestCase1Repete" classname="com.bridgelabz.MoodAnalyserTest" time="0.001"/>
+  <testcase name="TestCase1" classname="com.bridgelabz.MoodAnalyserTest" time="0.001"/>
+  <testcase name="TestCase2" classname="com.bridgelabz.MoodAnalyserTest" time="0.001"/>
+  <testcase name="TestCase2Repete" classname="com.bridgelabz.MoodAnalyserTest" time="0.002"/>
+  <system-out><![CDATA[Test Pass
+Test Pass
+Test Pass
+Test Pass
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
